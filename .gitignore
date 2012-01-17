@@ -1,0 +1,10 @@
+build
+deploy
+bin
+obj
+*.user
+*.suo
+*ReSharper*
+*resharper*
+*.Publish.xml
+Logs
